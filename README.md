@@ -27,4 +27,4 @@ Visualización del progreso: Usar un tablero con columnas ("To Do", "In Progress
 ## Integrantes del equipo.
 - Angel Giovanni Contreras Palomo - Angel Palomo
 - Camacho Rodriguez Brian Jair - Brian Jair
-- Rosas Vazquez - Juan Diego
+- Rosas Vazquez Juan Diego - Diego Rosas
