@@ -2,7 +2,7 @@
 
 ## ¿Qué funcionó bien?
 
-- **El proyecto en sí:** La idea de "Christmas Lights" era clara y alcanzable. Las user stories estaban bien definidas desde el banco de proyectos, lo que nos dio una guía clara de qué hacer.
+- **El proyecto en sí:** La idea de "Luces De Navidad" era clara y alcanzable. Las user stories estaban bien definidas desde el banco de proyectos, lo que nos dio una guía clara de qué hacer.
 
 - **División del trabajo:** Logramos repartir las tareas de forma más o menos equitativa: uno se encargó de dibujar los círculos, otro de la lógica del temporizador y otro de los controles (botón y slider). Cada quien pudo aportar desde su lado.
 
