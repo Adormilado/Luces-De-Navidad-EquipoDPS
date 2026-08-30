@@ -5,8 +5,11 @@ Elegimos “Luces de Navidad” (Tier 1 de App Ideas) porque permite crear una a
 
 ## User Stories.
 Como usuario, quiero ver una fila de 7 círculos de colores que simulen luces navideñas, para visualizar el efecto de la cadena de luces.
+
 Como usuario, quiero presionar un botón para iniciar el efecto de "onda" o "parpadeo" en las luces, para ver la animación en acción.
+
 Como usuario, quiero presionar el mismo botón para detener el efecto en cualquier momento, para pausar la animación cuando lo desee.
+
 Como usuario, quiero ajustar la velocidad del efecto mediante un control deslizante, para cambiar el intervalo de tiempo entre cada cambio de intensidad de las luces.
 
 ## Metodologia.
