@@ -8,7 +8,7 @@
 
 - **Tener una guía paso a paso:** La guía detallada de la práctica nos ayudó a saber qué hacer en cada fase y a no perdernos en el camino.
 
-## ¿Qué no funcionó / qué nos costó trabajo?
+## ¿Qué nos costó trabajo?
 
 - **Comunicación en equipo:** No hubo muy buena comunicación. A veces no sabíamos en qué estaba trabajando cada quién, y hubo momentos en los que dos personas trabajaron en lo mismo sin avisar, lo que generó retrabajo y pérdida de tiempo.
 
